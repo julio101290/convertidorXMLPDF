@@ -5,7 +5,7 @@
         <title>Conversor CFDI!</title>
         <meta name="description" content="Pequeño y poderoso conversor de CFDI XML a PDF hecho en CodeIgnter">
         <meta name="keywords" content="CFDI, CFDI 4.0, CFDI 3.3, Representación Impresa, CodeIgniter, Factura Electrónica"/>
-          <script data-ad-client="ca-pub-1094660604181103" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+     
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="shortcut icon" type="image/png" href="/favicon.ico"/>
