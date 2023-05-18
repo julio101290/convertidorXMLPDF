@@ -1,9 +1,21 @@
 {
-    "name": "codeigniter4/appstarter",
+    "name": "julio101290/ConversorCFDIXML2PDF",
     "type": "project",
-    "description": "CodeIgniter4 starter app",
-    "homepage": "https://codeigniter.com",
+    "description": "Programa Básico para convertir el el CFDI XMLa su representación Impresa en PDF",
+    "homepage": "https://cesarsystems.com.mx/conversor-cfdi-3-3-4-0-xml-a-pdf",
     "license": "MIT",
+    "keywords": [
+        "codeigniter4",
+        "CFDI",
+        "XML",
+        "PDF"
+    ],
+    "authors": [
+        {
+            "name": "Julio Leyva",
+            "email": "juliocesarleyvarodriguez@hotmail.com"
+        }
+    ],
     "require": {
         "php": "^7.4 || ^8.0",
         "codeigniter4/framework": "^4.0",
@@ -31,8 +43,8 @@
         "test": "phpunit"
     },
     "support": {
-        "forum": "http://forum.codeigniter.com/",
-        "source": "https://github.com/codeigniter4/CodeIgniter4",
-        "slack": "https://codeigniterchat.slack.com"
+        "youtube": "https://www.youtube.com/@rasec555",
+        "twich": "https://www.twitch.tv/bardack21",
+        "twitter": "https://twitter.com/JulioLeyvaR"
     }
 }
